@@ -6,15 +6,25 @@
  * Supports any niche, region, follower range, and filter criteria
  * User-configurable via interactive prompts
  * 
- * LICENSE: Creative Attribution License with Community Engagement Terms
- * - Use freely for any purpose (personal, commercial, educational)
- * - MUST provide attribution to original creator
- * - MUST fork or star the GitHub repository
- * - See LICENSE file for full terms
+ * ⚠️  LICENSE: PERSONAL USE ONLY
+ * ================================
  * 
- * ATTRIBUTION REQUIRED:
- * Built with Generalized Influencer Scout by [Creator Name]
- * Repository: [Your GitHub URL]
+ * ✅ ALLOWED:
+ * - Personal projects (free)
+ * - Educational use
+ * - Learning & experimentation
+ * 
+ * ❌ NOT ALLOWED:
+ * - Commercial/business use
+ * - Selling services with this software
+ * - Client work or deliverables
+ * - Revenue-generating activities
+ * - SaaS platform features
+ * 
+ * For commercial/professional use, contact the author for a license:
+ * Email: adhayatm@gmail.com
+ * 
+ * See LICENSE file for full legal terms
  */
 
 const fs = require('fs');

@@ -1,6 +1,10 @@
 # 🚀 Generalized Influencer Scout — Complete Package
 
+> **📌 PUBLIC README** — This document is for public distribution and GitHub.
+
 You now have a **fully generalized, user-configurable influencer discovery system** that works for **any niche, region, and follower range**.
+
+⚠️ **IMPORTANT:** This software is licensed for **personal use only**. Commercial or professional use requires explicit written permission from the author. See LICENSE file.
 
 ---
 
@@ -400,36 +404,78 @@ You have **160+ carefully vetted beauty influencers** in one Excel file, ready t
 
 ---
 
-## 📜 License & Attribution
+## 📜 License & Usage Terms
 
-**Generalized Influencer Scout** is released under a **Creative Attribution License with Community Engagement Terms**.
+**⚠️ IMPORTANT:** This software is for **PERSONAL & EDUCATIONAL USE ONLY**
 
-### You Can:
-✅ Use this script for personal & commercial projects  
-✅ Modify the code for your needs  
-✅ Distribute modified versions  
-✅ Integrate into your workflow  
+## 📜 License: Personal Use Only
 
-### You Must:
-📌 **Give Credit** — Include attribution to the original creator  
-📌 **Fork or Star** — Fork the repository OR give it a star on GitHub  
-📌 **Include License** — Keep this license file with distributions  
+**Generalized Influencer Scout** is licensed for **personal, non-commercial use ONLY**.
 
-### How to Give Credit:
-Add this line to your project (visible location):
+### ✅ WHAT YOU CAN DO (Personal Use)
+
+- ✅ Use for personal projects
+- ✅ Learn and study the code
+- ✅ Modify for your own needs (on your machine only)
+- ✅ Experiment and educate yourself
+- ✅ Use indefinitely at no cost
+- ✅ Private, non-profit use
+
+### ❌ WHAT YOU CANNOT DO (Commercial Prohibited)
+
+**Commercial use is STRICTLY PROHIBITED without explicit written permission.**
+
+You CANNOT use this software for:
+- ❌ Any business or professional capacity
+- ❌ Freelance or consulting services
+- ❌ Selling services based on this software
+- ❌ Agency or corporate deployment
+- ❌ Client deliverables
+- ❌ SaaS platforms or features
+- ❌ Any revenue-generating activity
+- ❌ Team or organizational use
+- ❌ Sharing with colleagues/clients
+- ❌ Distribution or publication (GitHub, etc.)
+
+### 💼 IF YOU NEED COMMERCIAL USE
+
+**Contact the author for explicit written permission:**
+
 ```
-Built with Generalized Influencer Scout by [Creator Name]
-GitHub: [Your Repo Link]
+Email: adhayatm@gmail.com
+Subject: "Generalized Influencer Scout - Commercial License Inquiry"
+
+Include in your message:
+- Your name and organization
+- Describe your intended use case
+- Explain your business model/revenue model
+- Estimated project scale
+- Timeline for implementation
+- Budget expectations (if any)
 ```
 
-### Restrictions:
-❌ Do NOT claim you created this from scratch without crediting the original  
-❌ Do NOT remove license/attribution notices  
-❌ Do NOT use without forking/starring (please engage with the repo)  
+**Commercial License Terms:**
+- Custom license agreement required
+- Pricing determined case-by-case
+- Based on scope, scale, and revenue model
+- Support and updates included
+- Terms negotiated individually
+
+### 🚨 LEGAL NOTICE
+
+**Unauthorized commercial use is a violation of this license and may result in:**
+- Cease-and-desist letters (C&D)
+- DMCA takedown notices
+- Legal proceedings and litigation
+- Financial damages and penalties
+- Injunctive relief to stop use
+- Attorney fees and court costs
+
+**This is a legally binding agreement. By using this software, you agree to these terms.**
 
 ---
 
-**TL;DR:** Use freely, modify freely, share freely — just **give credit** and **fork/star the repo**. That's it! 🙌
+See `LICENSE` file for complete legal terms and detailed restrictions.
 
 ---
 
