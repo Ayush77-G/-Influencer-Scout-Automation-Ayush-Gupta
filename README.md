@@ -1,14 +1,10 @@
 # 🚀 Generalized Influencer Scout — Complete Package
 
-> **📌 PUBLIC README** — This document is for public distribution and GitHub.
-
-You now have a **fully generalized, user-configurable influencer discovery system** that works for **any niche, region, and follower range**.
-
 ⚠️ **IMPORTANT:** This software is licensed for **personal use only**. Commercial or professional use requires explicit written permission from the author. See LICENSE file.
 
 ---
 
-## 📦 What You've Received
+## 📦 What inside
 
 ### 1. **Main Script**
 📄 `influencer_scout_generalized.js`
